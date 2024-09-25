@@ -1,6 +1,6 @@
-### Excel-P-L-Report
+# Excel-P-L-Report
 ## Project Overview:
-# Sales Report:
+### Sales Report:
 -**Objectives**:
 
   **1.** Create a comprehensive Customer Performance Report.
@@ -14,7 +14,7 @@ Analyzing sales data helps identify patterns, trends, and track key performance 
 - **Role of reports:**
 These reports provide valuable insights to help businesses offer competitive customer discounts, facilitate negotiations with clients, and identify new opportunities for expansion in high-potential markets.
 
-# Finance Report:
+### Finance Report:
 -**Objectives**:
 
  **1.** Create Profit and Loss (P&L) Reports by Fiscal Year.
@@ -28,14 +28,14 @@ Financial data analysis helps benchmark the company’s performance against indu
 - **Role of Reports:**
 These reports align financial planning with strategic business goals, instilling confidence in the organization's financial health and outlook.
 
-# Technical Skills:
+### Technical Skills:
 - [x] Proficient in the ETL (Extract, Transform, Load) process.
 - [x] Capable of generating date tables using Power Query.
 - [x] Skilled in deriving fiscal months and quarters for accurate reporting.
 - [x] Establishing data model relationships using Power Pivot.
 - [x] Incorporating supplementary data into an existing data model.
 - [x] Expertise in using DAX to create calculated columns and metrics.
-# Soft Skills:
+### Soft Skills:
 - [x] Deep understanding of Sales & Finance Reports, ensuring accurate representation of data.
 - [x] Designing reports with a user-centric approach, ensuring clarity and usability.
 - [x] Optimization of report generation through detailed fine-tuning and efficient methodologies.
