@@ -4,7 +4,10 @@
 - **Objectives**:
 
   **1.** Create a comprehensive Customer Performance Report.<br>
-  **2.** Conduct an in-depth comparison between Market Performance and Sales Targets.
+  **2.** Conduct an in-depth comparison between Market Performance and Sales Targets.<br>
+  **3.** Analyze the top 10 products and identify key markets contributing to sales growth.<br>
+  **4.** Examine new product performance and trends.<br>
+  **5.** Perform division-based analysis to assess performance across different business sectors.
   
 - **Purpose of sales analytics:**
 The goal is to enable businesses to effectively monitor and assess their sales activities and overall performance.
@@ -20,6 +23,7 @@ These reports provide valuable insights to help businesses offer competitive cus
 
   **1.** Create Profit and Loss (P&L) Reports by Fiscal Year.<br>
   **2.** Create Profit and Loss (P&L) Reports by Markets.
+  **3.** Create Profit and Loss (P&L) Reports by Quaters.
   
 - **Purpose of Financial Analytics:**
 Financial analytics supports performance evaluation, aids decision-making, and ensures effective communication with key stakeholders.
