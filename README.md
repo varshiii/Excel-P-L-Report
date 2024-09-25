@@ -1,7 +1,7 @@
 # Excel-P-L-Report
 ## Project Overview:
 ### Sales Report:
--**Objectives**:
+- **Objectives**:
 
   **1.** Create a comprehensive Customer Performance Report.
   **2.** Conduct an in-depth comparison between Market Performance and Sales Targets.
@@ -15,7 +15,7 @@ Analyzing sales data helps identify patterns, trends, and track key performance 
 These reports provide valuable insights to help businesses offer competitive customer discounts, facilitate negotiations with clients, and identify new opportunities for expansion in high-potential markets.
 
 ### Finance Report:
--**Objectives**:
+- **Objectives**:
 
  **1.** Create Profit and Loss (P&L) Reports by Fiscal Year.
  **2.** Create Profit and Loss (P&L) Reports by Markets.
