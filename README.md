@@ -3,7 +3,7 @@
 ### Sales Report:
 - **Objectives**:
 
-  **1.** Create a comprehensive Customer Performance Report.
+  **1.** Create a comprehensive Customer Performance Report.<br>
   **2.** Conduct an in-depth comparison between Market Performance and Sales Targets.
   
 - **Purpose of sales analytics:**
@@ -18,7 +18,7 @@ These reports provide valuable insights to help businesses offer competitive cus
 ### Finance Report:
 - **Objectives**:
 
-  **1.** Create Profit and Loss (P&L) Reports by Fiscal Year.
+  **1.** Create Profit and Loss (P&L) Reports by Fiscal Year.<br>
   **2.** Create Profit and Loss (P&L) Reports by Markets.
   
 - **Purpose of Financial Analytics:**
