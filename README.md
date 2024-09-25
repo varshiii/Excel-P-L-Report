@@ -22,7 +22,7 @@ These reports provide valuable insights to help businesses offer competitive cus
 - **Objectives**:
 
   **1.** Create Profit and Loss (P&L) Reports by Fiscal Year.<br>
-  **2.** Create Profit and Loss (P&L) Reports by Markets.
+  **2.** Create Profit and Loss (P&L) Reports by Markets.<br>
   **3.** Create Profit and Loss (P&L) Reports by Quaters.
   
 - **Purpose of Financial Analytics:**
